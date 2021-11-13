@@ -7,6 +7,8 @@ import (
 	"regexp"
 )
 
+const version = "1.0.1"
+
 // GoMod : Collects version information from the go.mod file.
 type GoMod struct {
 }
